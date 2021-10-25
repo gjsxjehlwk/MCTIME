@@ -3,6 +3,6 @@
 #ISFIRSTGRADE(True/False)
 #ISSECONDGRADE(True/False)
 True
-13:10
+12:30
 True
-False
+True
